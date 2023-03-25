@@ -48,16 +48,16 @@
 </div>
 <hr />
 <div style="display: inline-block;">
-  <a href="https://www.linkedin.com/in/vitor-brancali%C3%A3o-a98322151" target="_blank">
+  <a href="https://www.linkedin.com/in/vitor-brancali%C3%A3o-a98322151">
     <img alt="Brancs-LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/_brancs/" target="_blank">
+  <a href="https://www.instagram.com/_brancs/">
     <img alt="Brancs-Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://www.behance.net/brancs/" target="_blank">
+  <a href="https://www.behance.net/brancs/">
     <img alt="Brancs-BeHance" src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" />	
   </a>
-  <a href="https://open.spotify.com/user/ecx00rnu8lj9zzi4xd5uwn6rv?si=3fe7c217a172411e" target="_blank">
+  <a href="https://open.spotify.com/user/ecx00rnu8lj9zzi4xd5uwn6rv?si=3fe7c217a172411e">
     <img alt="Brancs-Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
 </div>
